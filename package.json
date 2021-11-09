@@ -1,0 +1,26 @@
+{
+  "name": "generator-dasha",
+  "version": "0.1.0",
+  "description": "Yeoman generator for Dasha.AI conversational apps",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iliazeus/generator-dasha.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "dasha",
+    "dasha.ai"
+  ],
+  "author": "Ilia Pozdnyakov <ilia.pozdnyakov@ya.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iliazeus/generator-dasha/issues"
+  },
+  "homepage": "https://github.com/iliazeus/generator-dasha#readme",
+  "dependencies": {
+    "yeoman-generator": "^5.4.2"
+  },
+  "devDependencies": {
+    "@types/yeoman-generator": "^5.2.7"
+  }
+}

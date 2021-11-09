@@ -1,0 +1,15 @@
+{
+  "name": "<%= answers.app.name %>",
+  "version": "<%= answers.app.version %>",
+  "description": "<%= answers.app.description %>",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@dasha.ai/sdk": "^0.6.7"
+  },
+  "devDependencies": {
+    "@dasha.ai/cli": "^0.5.3"
+  }
+}
